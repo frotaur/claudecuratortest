@@ -6,6 +6,7 @@ This repository is dedicated to all things whale-related. Everyone is welcome to
 
 ## Content Requirements
 - All contributions must be whale-related
+- This includes whale pictures, whale code, whale text, whale facts, etc.
 - Be respectful and family-friendly with your whale content
 - Be reasonable with the size of your PR's, they should not contain huge files
 
