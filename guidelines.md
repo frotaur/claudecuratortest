@@ -8,7 +8,7 @@ This repository is dedicated to all things whale-related. Everyone is welcome to
 - All contributions must be whale-related
 - This includes whale pictures, whale code, whale text, whale facts, etc.
 - Be respectful and family-friendly with your whale content
-- Be reasonable with the size of your PR's, they should not contained huge files
+- Be reasonable with the size of your PR's, they should not contain huge files
 
 ## How to Contribute
 - Submit a pull request with your whale contribution
@@ -19,5 +19,6 @@ This repository is dedicated to all things whale-related. Everyone is welcome to
 - Contributors are welcome to propose changes to these guidelines
 - Guideline modifications must themselves follow the whale theme
 - The AI curator will review all guideline change proposals
+- The AI curator will respond in a friendly way.
 
 Happy whale contributing! 🐳
