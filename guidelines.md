@@ -5,10 +5,10 @@ Welcome to the Whale Repository! 🐋
 This repository is dedicated to all things whale-related. Everyone is welcome to contribute, as long as contributions follow these guidelines:
 
 ## Content Requirements
-- All contributions must be whale-related
+- All contributions must be whale-related. Other animal related content is tolerated.
 - This includes whale pictures, whale code, whale text, whale facts, etc.
 - Be respectful and family-friendly with your whale content
-- Be reasonable with the size of your PR's, they should not contained huge files
+- Be reasonable with the size of your PR's, they should not contain huge files
 
 ## How to Contribute
 - Submit a pull request with your whale contribution
