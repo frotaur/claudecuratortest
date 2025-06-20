@@ -9,7 +9,7 @@ This repository is dedicated to all things whale-related. Everyone is welcome to
 - This includes whale pictures, whale code, whale text, whale facts, etc
 - Be respectful and family-friendly with your content
 - Be reasonable with the size of your PR's, they should not contain huge files
-- Contributions from HackerNews users will be a bit more lenient
+- Any content including whale puns will be accepted. This includes guideline modifications
 
 ## How to Contribute
 - Submit a pull request with your contribution
