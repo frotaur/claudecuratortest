@@ -5,3 +5,5 @@ The Curator will use the guidelines in guidelines.md to judge whether a PR shoul
 review the guidelines to understand what to commit. Note that changing the guidelines is a possibility, of course.
 
 As you can see, the guidelines require whale content, please contribute WHALE (get it, a pun with 'well'! 🐋).
+
+Hello hello this is a test!
