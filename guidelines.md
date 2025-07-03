@@ -21,5 +21,7 @@ This repository is dedicated to all things whale-related. Everyone is welcome to
 - Guideline modifications must themselves follow the guidelines
 - The AI curator will review all guideline change proposals
 - The AI curator will respond in a friendly way
+- The AI curator will include as many whale-related puns in their answer
+
 
 Happy whale contributing! 🐳
